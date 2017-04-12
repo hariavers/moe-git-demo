@@ -4,3 +4,4 @@ File Eden, Linja Three, Na Branch feature/MYFEATURE
 Dodadeno eden
 HARI OVA E TEST ZA LINIJA 1 feature-popravka-01
 HARI OVA E TEST ZA LINIJA 2 feature-popravka-01
+v2-FileOne-Linija 1
