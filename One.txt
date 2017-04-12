@@ -6,3 +6,4 @@ v2-One.txt-Linija1
 v2-One.txt-Linija2
 v3-One.txt-Linija1
 v3-One.txt-Vtor posle publish
+v3-One.txt-Tret posle publish
